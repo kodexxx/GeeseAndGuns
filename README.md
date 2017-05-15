@@ -1,3 +1,3 @@
 # GeeseAndGuns
 
-![alt text](http://url/to/img.png)
+![Схема](https://raw.githubusercontent.com/potterua/GeeseAndGuns/master/scheme.svg)
