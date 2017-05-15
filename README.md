@@ -1,3 +1,3 @@
 # GeeseAndGuns
 
-![Схема](https://raw.githubusercontent.com/potterua/GeeseAndGuns/master/scheme.svg)
+![Схема](https://github.com/potterua/GeeseAndGuns/raw/master/schemeit-project.png)
