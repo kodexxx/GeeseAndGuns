@@ -18,6 +18,6 @@
 ### Принципова схема пістолета
 ![Схема](https://github.com/potterua/GeeseAndGuns/raw/master/scheme.png)
 ### Перший запуск гри
-1. Встановити драйвер для роботи з *COM* портом **Arduino UNO**
+1. Встановити драйвер для роботи з *COM* портом *Arduino UNO* [**Завантажити**](https://www.arduino.cc/en/Main/Software)
 2. Перезавантажити комп'ютер
 3. Запустити гру
